@@ -35,7 +35,7 @@ It's clearly due for an overhaul (e.g. refactoring, testing, documentation, etc.
 * Many teams need the project.
 * The project has significant tech debt.
 * Slow adoption and iteration on the project.
-* There is not a owner or maintainer who takes reponsibility for the project and contribution ecosystem as a whole.
+* There is not an owner or maintainer who takes reponsibility for the project and contribution ecosystem as a whole.
 
 ## Forces
 
